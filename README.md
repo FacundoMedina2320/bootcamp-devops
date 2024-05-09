@@ -8,7 +8,7 @@
 <body>
 
 <div class="container">
-  <img src="https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/que-tienes-de-ron-weasley/120274313-1-esl-ES/Que-tienes-de-Ron-Weasley.jpg?crop=1xw:0.5xh;center,top&resize=1024:*" alt="Foto de perfil de Facundo Medina" class="profile-img">
+  <img src="https://i.pinimg.com/564x/54/e7/e7/54e7e789c5f608ab96690ad3c5bba435.jpg" alt="Foto de perfil de Facundo Medina" class="profile-img">
   <h1>¡Hola! Soy Facundo Medina</h1>
   <p>¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás información sobre mí, mi experiencia laboral, habilidades y cómo contactarme.</p>
   
