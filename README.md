@@ -3,12 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 </head>
 <body>
 
 <div class="container">
-  <img src="https://i.pinimg.com/564x/54/e7/e7/54e7e789c5f608ab96690ad3c5bba435.jpg" alt="Foto de perfil de Facundo Medina" class="profile-img">
+  <img src="https://i.pinimg.com/564x/54/e7/e7/54e7e789c5f608ab96690ad3c5bba435.jpg" alt="Foto de perfil de Facundo Medina" class="profile-img" style="width: 200px;">
   <h1>¡Hola! Soy Facundo Medina</h1>
   <p>¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás información sobre mí, mi experiencia laboral, habilidades y cómo contactarme.</p>
   
